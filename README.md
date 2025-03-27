@@ -15,7 +15,7 @@ During my Master's, I developed a strong interest in C++ and game development. M
 These are some of the major languages and technologies that I have worked with so far:
 <p>
   <a href="https://skillicons.dev">
-    <img style="margin: 10px"src="https://skillicons.dev/icons?i=cs,cpp,java,py,js,unity,visualstudio,vscode,docker,github,git&perline=13"/> 
+    <img style="margin: 10px"src="https://skillicons.dev/icons?i=cs,cpp,java,py,js,unity,docker,github,git,visualstudio,vscode,idea&perline=13"/> 
   </a>
 </p>
 
