@@ -8,7 +8,7 @@ I started my software development journey as a student at VIA University College
 During my Master's, I developed a strong interest in C++ and game development. My thesis focused on creating a [C++ library](https://github.com/lavinia-lehaci/ViennaGameAILibrary) for game AI algorithms, aimed at real-time strategy game development, including pathfinding, decision trees, and steering behaviors. I graduated in January and am currently looking for roles in Game Development or C#/C++ development. In the meantime, I’ve been working on personal projects, such as a [Procedural Terrain Generator](https://github.com/lavinia-lehaci/Procedural-Terrain-Generator) that I developed using Unity and C#.
 
 👾 Facts about me
-- I enjoy playing games from various genres, including Valorant, Marvel Rivals, Brawlhalla, Baldur's Gate, Hogwarts Legacy, It Takes Two, Minecraft, and Sims.
+- I enjoy playing games from various genres, including Valorant, Marvel Rivals, Brawlhalla, Baldur's Gate, Hogwarts Legacy, It Takes Two, Animal Crossing, Minecraft, and Sims.
 - I also enjoy reading — though I tend to devour a book in a day and then not touch another one for months.
 
 ## Skill Set
