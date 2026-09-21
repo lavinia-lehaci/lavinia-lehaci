@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&fontFamily=montserrat&text=Hi!%20I'm%20Lavinia.&fontSize=50&fontColour=white)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=false&fontFamily=montserrat&text=Hi%21+I%27m+Lavinia.&textBg=false&fontSize=60&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 A software engineer from Romania with a Master's in Computer Science, having studied and worked across Denmark, Austria, Spain, and Bulgaria. <br/>
 4+ years of experience, currently focusing on C# and .NET.
