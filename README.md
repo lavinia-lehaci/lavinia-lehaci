@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=796e8d&section=header&reversal=false&fontFamily=montserrat&text=Hi%21+I%27m+Lavinia.&textBg=false&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
-A software engineer from Romania with a Master's degree in Computer Science, having studied and worked across Denmark, Austria, Spain, and Bulgaria. <br/> 4+ years of experience, currently focused on C#/.NET backend development.
+A software engineer from Romania with a Master's degree in Computer Science, having studied and worked across Denmark, Austria, Spain, and Bulgaria. 4+ years of experience, currently focused on C#/.NET backend development.
 
 Some of the technologies I've worked with in the past:
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,python,js,html,css,dotnet,spring,postgres,unity,docker,visualstudio,vscode,git&theme=dark)](https://skillicons.dev)
